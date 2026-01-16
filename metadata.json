@@ -1,0 +1,8 @@
+{
+  "name": "Manik AI - The Zenith of Intelligence",
+  "description": "A world-class, multi-modal AI platform integrating Gemini 3's advanced reasoning, image generation, and real-time voice capabilities in a stunning, high-performance interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
